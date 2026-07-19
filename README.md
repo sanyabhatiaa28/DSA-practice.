@@ -14,4 +14,8 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2427-number-of-common-factors) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
