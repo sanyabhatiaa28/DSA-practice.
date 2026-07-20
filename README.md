@@ -25,6 +25,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0015-3sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0015-3sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
@@ -48,6 +50,7 @@ A collection of LeetCode questions solved during placement prep.
 | ------- |
 | [0015-3sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
