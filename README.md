@@ -24,6 +24,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0001-two-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions solved during placement prep.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
