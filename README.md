@@ -26,6 +26,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0016-3sum-closest](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
+| [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
@@ -56,4 +57,16 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
