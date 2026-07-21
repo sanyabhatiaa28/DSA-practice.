@@ -42,6 +42,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0018-4sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
+| [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
@@ -59,6 +60,7 @@ A collection of LeetCode questions solved during placement prep.
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -72,4 +74,12 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
