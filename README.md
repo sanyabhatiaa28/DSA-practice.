@@ -35,6 +35,7 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0018-4sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
