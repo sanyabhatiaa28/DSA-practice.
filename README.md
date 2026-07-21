@@ -51,6 +51,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0142-linked-list-cycle-ii](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
@@ -59,6 +60,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
