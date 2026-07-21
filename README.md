@@ -29,6 +29,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
