@@ -29,6 +29,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0018-4sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0018-4sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0125-valid-palindrome) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions solved during placement prep.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
@@ -132,4 +135,12 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
