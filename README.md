@@ -34,6 +34,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0088-merge-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions solved during placement prep.
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
