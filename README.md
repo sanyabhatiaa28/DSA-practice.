@@ -32,6 +32,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
@@ -97,16 +98,19 @@ A collection of LeetCode questions solved during placement prep.
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
