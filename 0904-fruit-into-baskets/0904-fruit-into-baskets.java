@@ -13,9 +13,7 @@ class Solution {
                 }
                 l++;
             }
-            if(map.size()<=2){
-                maxlen=Math.max(maxlen,r-l+1);
-            }
+            maxlen=Math.max(maxlen,r-l+1);
         }
         return maxlen;
     }
