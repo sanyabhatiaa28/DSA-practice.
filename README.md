@@ -37,6 +37,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0141-linked-list-cycle](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0202-happy-number) |
+| [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
