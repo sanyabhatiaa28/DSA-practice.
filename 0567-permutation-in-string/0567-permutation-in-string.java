@@ -1,24 +1,29 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
         int m=s1.length();
-        for(int i=0;i<=s2.length()-m;i++){
-            String sub=s2.substring(i,i+m);
-            if(ispermutation(s1,sub)){
-                return true;
+        int n=s2.length();
+        if(m>n)return false;
+        int l=0;
+        int freq1[]=new int[26];
+        int winfreq[]=new int[26];
+        for(int i=0;i<m;i++){
+            freq1[s1.charAt(i)-'a']++;
+        }
+        for(int r=0;r<n;r++){
+            winfreq[s2.charAt(r)-'a']++;
+            if(r-l+1==m){
+                if(ismatch(freq1,winfreq)){
+                    return true;
+                }
+                winfreq[s2.charAt(l)-'a']--;
+                l++;
             }
         }
         return false;
-
     }
-    private boolean ispermutation(String s, String t){
-        int freq1[]=new int[26];
-        int freq2[]=new int[26];
-        for(int i=0;i<s.length();i++){
-            freq1[s.charAt(i)-'a']++;
-            freq2[t.charAt(i)-'a']++;
-        }
+    private boolean ismatch(int[]a,int[]b){
         for(int i=0;i<26;i++){
-            if(freq1[i]!=freq2[i]){
+            if(a[i]!=b[i]){
                 return false;
             }
         }
