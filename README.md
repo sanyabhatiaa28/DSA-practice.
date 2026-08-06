@@ -52,6 +52,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0142-linked-list-cycle-ii](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions solved during placement prep.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
