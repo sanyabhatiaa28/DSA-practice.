@@ -33,6 +33,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0018-4sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -167,4 +170,16 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
