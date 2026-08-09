@@ -34,6 +34,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0075-sort-colors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions solved during placement prep.
 | ------- |
 | [0001-two-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
