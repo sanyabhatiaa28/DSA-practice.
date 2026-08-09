@@ -38,6 +38,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0242-valid-anagram](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -131,6 +133,7 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
