@@ -7,6 +7,7 @@ A collection of LeetCode questions solved during placement prep.
 | ------- |
 | [0202-happy-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0202-happy-number) |
 | [2427-number-of-common-factors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2427-number-of-common-factors) |
+| [3870-count-commas-in-range](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
 | ------- |
