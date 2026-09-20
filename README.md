@@ -115,6 +115,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
