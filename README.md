@@ -47,6 +47,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0560-subarray-sum-equals-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
