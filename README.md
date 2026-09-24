@@ -42,6 +42,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -98,6 +100,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0142-linked-list-cycle-ii](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -205,4 +208,12 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
