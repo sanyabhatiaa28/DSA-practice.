@@ -61,6 +61,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -218,4 +221,8 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0705-design-hashset) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
