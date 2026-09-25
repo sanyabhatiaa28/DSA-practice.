@@ -89,6 +89,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0234-palindrome-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0876-middle-of-the-linked-list) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0125-valid-palindrome](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions solved during placement prep.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
