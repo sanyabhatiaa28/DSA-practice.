@@ -44,6 +44,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0643-maximum-average-subarray-i](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
+| [0819-most-common-word](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0560-subarray-sum-equals-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0705-design-hashset) |
+| [0819-most-common-word](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0904-fruit-into-baskets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -158,6 +160,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0424-longest-repeating-character-replacement](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
+| [0819-most-common-word](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
 | [1816-truncate-sentence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1816-truncate-sentence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3498-reverse-degree-of-a-string) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions solved during placement prep.
 | ------- |
 | [0169-majority-element](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0819-most-common-word) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
