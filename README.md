@@ -162,6 +162,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0567-permutation-in-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1816-truncate-sentence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -171,6 +172,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0143-reorder-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
