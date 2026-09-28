@@ -7,6 +7,7 @@ A collection of LeetCode questions solved during placement prep.
 | ------- |
 | [0202-happy-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0202-happy-number) |
 | [2427-number-of-common-factors](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2427-number-of-common-factors) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions solved during placement prep.
 | [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
 | [1816-truncate-sentence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1816-truncate-sentence) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
