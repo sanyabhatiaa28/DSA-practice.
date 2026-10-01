@@ -160,6 +160,7 @@ A collection of LeetCode questions solved during placement prep.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0387-first-unique-character-in-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions solved during placement prep.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0234-palindrome-linked-list) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions solved during placement prep.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Polygons
 |  |
