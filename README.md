@@ -53,6 +53,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1260-shift-2d-grid) |
 | [1816-truncate-sentence](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/1816-truncate-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0389-find-the-difference](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0389-find-the-difference) |
 | [0976-largest-perimeter-triangle](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions solved during placement prep.
 | [0209-minimum-size-subarray-sum](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/0713-subarray-product-less-than-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sanyabhatiaa28/DSA-practice./tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
